@@ -141139,3 +141139,158 @@ n_run 16 0 2 8968
 c_close 
 f_stash_end 
 
+stat 8360 8360 3335 3335 0 32511
+
+eff 1 610505 4295
+
+n_run 18
+stat 8360 8360 3335 3335 0 32511
+
+stat 8360 8360 3335 3335 0 32511
+
+npc_req 1 610505 17
+
+n_run 17 0 1 610505
+qna #arena^0^1 Se necesita 500 de oro para entrar. ¿Quieres continuar?
+
+stat 8360 8360 3335 3335 0 32511
+
+#arena^0^1
+gold 2866506 0
+
+ascr  7788 8694 0 0 0 0 0 0 0
+
+c_map 0 146 0
+
+mapout
+
+c_close 
+f_stash_end 
+c_info ElMaYorClaSiCo - -1 -1 - 610505 0 0 1 13 2 -3 0 0 0 0 0 0
+
+c_mode 1 610505 0 0 0 0
+
+equip 56 2 0.148.6.5.0 1.769.2.0.0 2.204.0.0.0 5.4008.4.2.0 11.4504.0.0.0 12.4099.0.12.0 13.4146.0.0.0 14.4138.0.0.0
+
+lev 85 294030117 80 1975 487862000 790000 45850 3 0 0 3
+
+stat 8360 8360 3335 3335 0 32511
+
+at 610505 2006 21 30 2 0 55 9 -1
+
+cond 1 610505 0 0 13
+
+c_map 0 2006 1
+
+sc 1 5 590 688 736 10 210 0 2 531 566 649 15 270 0 251 549 308 549 273 3 0 0 0
+
+gidx 1 610505 -1 - 0
+
+rsfp 0 -1
+
+pinit 0
+
+
+pairy 1 610505 0 0 0 0
+
+act6 
+
+gp 37 15 4998 -1 0 0
+
+in 2 2367 13451 38 42 0 100 100 9713 0 0 -1 1 0 -1 - 0 -1 0 0 0 0 0 0 0 0
+
+shop 2 13451 1 0 72 Tienda de fama
+
+in 2 2110 13450 38 46 0 100 100 9619 0 0 -1 1 0 -1 - 0 -1 0 0 0 0 0 0 0 0
+
+shop 2 13450 1 0 58 Accesorios de la arena
+
+in 2 2109 13449 43 42 4 100 100 9617 0 0 -1 1 0 -1 - 0 -1 0 0 0 0 0 0 0 0
+
+shop 2 13449 1 0 57 Arena de los maestros
+
+in 2 2108 13448 34 42 5 100 100 9618 0 0 -1 1 0 -1 - 0 -1 0 0 0 0 0 0 0 0
+
+shop 2 13448 1 0 56 Arena de los talentos
+
+stat 8360 8360 3335 3335 0 32511
+
+stat 8360 8360 3335 3335 0 32511
+
+eff 1 610505 4295
+
+walk 25 29 0 13
+cond 1 610505 0 0 13
+
+cond 1 610505 0 0 13
+
+stat 8360 8360 3335 3335 0 32511
+
+say 1 610505 10 Modo PvP ya disponible
+
+stat 8360 8360 3335 3335 0 32511
+
+stat 8360 8360 3335 3335 0 32511
+
+eff 1 610505 4295
+
+stat 8360 8360 3335 3335 0 32511
+
+stat 8360 8360 3335 3335 0 32511
+
+stat 8360 8360 3335 3335 0 32511
+
+stat 8360 8360 3335 3335 0 32511
+
+eff 1 610505 4295
+
+stat 8360 8360 3335 3335 0 32511
+
+stat 8360 8360 3335 3335 0 32511
+
+
+dlg #fins^-1^633833 #fins^-99^633833 Veux-tu devenir ami avec SlayerD² ?
+
+fins 1 633833
+
+finit 702263|0|0|lefenek 685985|0|0|°WaRRiORoX° 767543|0|0|Saarah*-* 91159|0|0|Shunraï 457639|0|0|jack-atlus 202108|0|0|The-Link 494942|0|0|HexaYoan3 627812|0|0|guiguifoufou² 84085|0|0|Lego 720120|0|0|Mioute 719180|0|0|lucaslylou 739150|0|0|Tanjiro 650379|0|0|Ludokaira² 720119|0|0|Miout 396235|0|0|Babax-xXx 740506|0|0|Yzigor 654501|0|0|Shizoune 710661|0|0|-Akimaru 675012|0|0|Alexia¤~ 704532|0|0|Veigar 664276|0|0|Voltana555291|5|0|CoOkies 475461|0|0|Pikminus 626092|0|0|LotuS 767387|0|0|Kaary 425075|0|0|FredericLin785 571697|0|0|-¤NécroSkullz¤ 756559|0|0|Hamiel786513|0|0|•Erathia•™ 363001|0|0|¤Légendary¤ 787514|0|0|0Luçif£r0 422938|0|0|Luffy-kun 430758|0|0|Fail 714198|0|0|Entourage 558150|0|0|NiiSha_ 733188|0|0|Oasis’ 535082|0|0|Otaku~Girl 291219|0|0|devil-jojo 685803|0|0|Kyohai 704242|0|0|•Odin• 609054|0|0|hargon 768943|0|0|Patatosaure 698604|0|0|KuanYin 570243|0|0|pyrando 737179|0|0|Sayu 574011|0|0|Milow* 286174|0|0|diablolordee 591344|0|0|¤OCB¤ 723794|0|0|ZeyNaa69 420516|0|0|Hunter 623673|0|0|NiiSha 319210|0|0|SilverTorch 741878|0|0|Aikona 736751|0|0|Kohina 692557|0|0|Crâpouille 652944|0|0|Arkasia 769584|0|0|†Yamaha† 104963|0|0|Elvin 727606|0|0|Akimitsu` 796508|0|0|kello 760709|0|0|¤°Fraise°¤ 521919|0|0|ChachaNeko 633833|0|1|SlayerD²
+info Enregistré
+finfo 702263.0 685985.0 767543.0 91159.0 457639.0 202108.0 494942.0 627812.0 84085.0 720120.0 719180.0 739150.0 650379.0 720119.0 396235.0 740506.1 654501.0 710661.0 675012.0 704532.0 664276.0 555291.0 475461.0 626092.0 767387.0 425075.0 571697.0 756559.0 786513.0 363001.0 787514.0 422938.0 430758.0 714198.0 558150.0 733188.0 535082.0 291219.0 685803.0 704242.0 609054.0 768943.0 698604.0 570243.0 737179.0 574011.0 286174.0 591344.1 723794.1 420516.0 623673.0 319210.0 741878.0 736751.0 692557.0 652944.0 769584.0 104963.0 727606.0 796508.0 760709.0 521919.0 633833.1
+
+guri 0 1 782387 3 0
+guri 19 1 782387 1824
+guri 0 1 782387 0 0
+guri 19 1 782387 1825
+guri 19 1 782387 1826
+guri 2 1 626114
+esf
+
+finit 702263|0|0|lefenek 685985|0|0|°WaRRiORoX° 767543|0|0|Saarah*-* 91159|0|0|Shunraï 457639|0|0|jack-atlus 202108|0|0|The-Link 494942|0|0|HexaYoan3 627812|0|0|guiguifoufou² 84085|0|0|Lego 720120|0|0|Mioute 719180|0|0|lucaslylou 739150|0|0|Tanjiro 650379|0|0|Ludokaira² 720119|0|0|Miout 396235|0|0|Babax-xXx 740506|0|0|Yzigor 654501|0|0|Shizoune 710661|0|0|-Akimaru 675012|0|0|Alexia¤~ 704532|0|0|Veigar 664276|0|0|Voltana555291|5|0|CoOkies 475461|0|0|Pikminus 626092|0|0|LotuS 767387|0|0|Kaary 425075|0|0|FredericLin785 571697|0|0|-¤NécroSkullz¤ 756559|0|0|Hamiel786513|0|0|•Erathia•™ 363001|0|0|¤Légendary¤ 787514|0|0|0Luçif£r0 422938|0|0|Luffy-kun 430758|0|0|Fail 714198|0|0|Entourage 558150|0|0|NiiSha_ 733188|0|0|Oasis’ 535082|0|0|Otaku~Girl 291219|0|0|devil-jojo 685803|0|0|Kyohai 704242|0|0|•Odin• 609054|0|0|hargon 768943|0|0|Patatosaure 698604|0|0|KuanYin 570243|0|0|pyrando 737179|0|0|Sayu 574011|0|0|Milow* 286174|0|0|diablolordee 591344|0|0|¤OCB¤ 723794|0|0|ZeyNaa69 420516|0|0|Hunter 623673|0|0|NiiSha 319210|0|0|SilverTorch 741878|0|0|Aikona 736751|0|0|Kohina 692557|0|0|Crâpouille 652944|0|0|Arkasia 769584|0|0|†Yamaha† 104963|0|0|Elvin 727606|0|0|Akimitsu` 796508|0|0|kello 760709|0|0|¤°Fraise°¤ 521919|0|0|ChachaNeko
+
+info Tu es bloqué
+
+???? (maybe info packet too)
+
+info Tu es déjà ami avec ce joueur.
+
+req_info 1 633833
+tc_info 20 SlayerD² 0 0 0 1 -1 - 3 1 1 0 0 1 0 0 1 2 0 0 0 246 0 0 0 -1 0 0 0 0 10 0 0 0 0 0 0 Pas de message de présentation.
+
+blins 633833
+blinit 648879|[Joker]™ 756887|Artkey 617879|MasterLars 743308|++El-Nariz 774620|†Slayon† 98671|Miraginaire 783589|smbfdp 715280|Plagu£ 747349|ArChEr-Du-MaL 98093|abderdulabo 725148|¤Styxe¤ 601648|XAirdemX² 709825|WhayRow\™/ 291478|¤£uffy¤ 648302|Dr@gonBleue 751532|Anthioumane 444687|bigpapajo 792279|leretour=) 486799|(TWO) 790877|ZerkPabloZoo 633833|SlayerD²
+info Enregistré
+
+blins 633833
+info Tu ne peux pas ajouter des membres de ta famille à la liste noire.
+
+info Tu ne peux pas ajouter des amis à la liste noire.
+
+bldel 633833
+info Supprimé
+blinit 648879|[Joker]™ 756887|Artkey 617879|MasterLars 743308|++El-Nariz 774620|†Slayon† 98671|Miraginaire 783589|smbfdp 715280|Plagu£ 747349|ArChEr-Du-MaL 98093|abderdulabo 725148|¤Styxe¤ 601648|XAirdemX² 709825|WhayRow\™/ 291478|¤£uffy¤ 648302|Dr@gonBleue 751532|Anthioumane 444687|bigpapajo 792279|leretour=) 486799|(TWO) 790877|ZerkPabloZoo
+
+info Tu es déjà sur sa liste noire.
+
+btk 633833 Hello
+
+talk 633833 Salut !
